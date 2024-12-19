@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simple People List</string>
+
+    <string-array name="first_names">
+        <item>Иван</item>
+        <item>Алексей</item>
+        <item>Петр</item>
+        <item>Александр</item>
+        <item>Дмитрий</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Иванов</item>
+        <item>Петров</item>
+        <item>Сидоров</item>
+        <item>Кузнецов</item>
+        <item>Кузьмин</item>
+    </string-array>
+</resources>
